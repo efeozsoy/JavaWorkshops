@@ -3,8 +3,8 @@ public class Main {
         String[] courses = {"Java", "C#"};
         Student student = new Student("12345",courses, 4);
         student.setAddress("Istanbul");
-        student.setFirstName("Gülşan");
-        student.setEmail("gulsan@gmail.com");
+        student.setFirstName("GGGG");
+        student.setEmail("gggggg@gmail.com");
         student.setPassword("123456");
         StudentManager studentManager = new StudentManager();
         studentManager.addDatabase(student);
